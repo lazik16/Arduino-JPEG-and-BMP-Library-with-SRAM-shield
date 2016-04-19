@@ -1,0 +1,24 @@
+#######################################
+# Syntax Coloring Map For JPEG and BMP
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+BMP	KEYWORD1	BMP
+JPEG	KEYWORD1	JPEG
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+open	KEYWORD2
+close	KEYWORD2
+writeFile	KEYWORD2
+writeJPEG	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
